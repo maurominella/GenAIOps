@@ -2,7 +2,7 @@
 
 ![Header](media/genaiopsheader.png)
 
-Welcome to the GenAIOps Solution Accelerator!! This project provides a ready-to-run GenAIOps solution, with a primary focus on CI/CD pipeline implementation. It includes essential concepts designed to help you seamlessly adopt GenAIOps practices into your projects.
+Welcome to the GenAIOps Solution Accelerator! This project provides a ready-to-run GenAIOps solution, with a primary focus on CI/CD pipeline implementation. It includes essential concepts designed to help you seamlessly adopt GenAIOps practices into your projects.
  
 ## Highlights
 
